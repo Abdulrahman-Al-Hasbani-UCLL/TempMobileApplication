@@ -40,16 +40,6 @@ After starting the server
    Open the package.json file.
    press the light gray debug button above the scripts. 
    
-
-## RESET
-
-To **reset** all the work
-
-### DO NOT USE UNLESS WE NEED TO START FROM SCRATCH
-```bash
-npm run reset-project
-```
-
 ## Docs
 
 Add useful documentation here:
